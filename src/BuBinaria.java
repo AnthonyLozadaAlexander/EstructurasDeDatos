@@ -1,4 +1,4 @@
-﻿import javax.swing.*;
+import javax.swing.*;
 
 public class BuBinaria {
     public static int busquedaBinaria(int[] arreglo, int elementoBuscar){
