@@ -1,3 +1,5 @@
+package Arreglos;
+
 public class BusquedaBinaria {
 
     public static void main(String[] args) {

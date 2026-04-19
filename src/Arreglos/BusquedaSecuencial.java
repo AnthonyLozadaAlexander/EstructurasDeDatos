@@ -1,3 +1,5 @@
+package Arreglos;
+
 public class BusquedaSecuencial {
 
     public static int busquedaSecuencial(int[] arreglo, int dato) {

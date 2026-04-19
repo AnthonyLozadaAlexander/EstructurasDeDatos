@@ -1,3 +1,5 @@
+package Arreglos;
+
 import javax.swing.*;
 
 public class BuBinaria {
